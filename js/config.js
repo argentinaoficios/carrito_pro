@@ -9,7 +9,7 @@ const CONFIG = {
   API_URL: '/api',
 
   // Clave admin — tiene que ser IGUAL a la variable ADMIN_KEY en Vercel
-  ADMIN_KEY: 'CAMBIA_ESTA_CLAVE_SECRETA',
+  ADMIN_KEY: 'admin12345678',
 
   // Número WhatsApp en formato internacional sin + ni espacios
   // Ejemplo Argentina 011-4444-5555 → 5491144445555
